@@ -1,0 +1,24 @@
+#box1 {
+  height: 100px;
+  width: 100px;
+  background-color: pink;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+#box2 {
+  height: 200px;
+  width: 200px;
+  background-color: deeppink;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
